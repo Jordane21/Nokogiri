@@ -1,0 +1,1 @@
+#récupérer le cours de toutes les cryptomonnaies, et les enregistrer bien proprement dans une array de hashs
